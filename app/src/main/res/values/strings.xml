@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Handy Airports</string>
+    <string name="search_hint">schiphol</string>
+</resources>
